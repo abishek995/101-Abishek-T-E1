@@ -1,0 +1,1 @@
+package com.marticle.departmensts.entity;
